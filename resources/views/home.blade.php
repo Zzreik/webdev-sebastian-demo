@@ -20,6 +20,10 @@
             Blade, Eloquent, validación, pruebas, control de versiones y despliegue.
         </p>
 
+        <p class="mi-firma">
+        Proyecto de Sebastián Vásquez Navarro — TM4100
+        </p>
+
         <span class="hero__status" data-app-status>
             Comprobando JavaScript y Vite…
         </span>
